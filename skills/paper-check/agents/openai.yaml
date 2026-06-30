@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Check"
+  short_description: "论文交稿前 PC 系列细节检查包入口"
+  default_prompt: "Use $paper-check to select and run the appropriate PC-prefixed pre-submission paper check."

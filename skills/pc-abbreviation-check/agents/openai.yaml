@@ -1,0 +1,4 @@
+interface:
+  display_name: "PC-Abbreviation Check"
+  short_description: "检查 LaTeX 论文缩写定义、使用次数与全称大小写"
+  default_prompt: "Use $pc-abbreviation-check to inspect abbreviation definitions and usage in this LaTeX paper."

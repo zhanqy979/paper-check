@@ -1,0 +1,4 @@
+interface:
+  display_name: "PC Paper Review Grounded"
+  short_description: "Grounded academic review assistant for paper-check workflows."
+  default_prompt: "Review or check this manuscript using objective, concise, source-grounded academic review criteria."

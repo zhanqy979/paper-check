@@ -1,0 +1,4 @@
+interface:
+  display_name: "PC-Equation Punctuation Check"
+  short_description: "检查 LaTeX 公式前后标点、句式与科研写作规范"
+  default_prompt: "Use $pc-equation-punctuation-check to inspect equation punctuation and surrounding sentence structure in this LaTeX paper."
